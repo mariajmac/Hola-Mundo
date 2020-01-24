@@ -1,5 +1,6 @@
 # Hola-Mundo
 Este es un ejemplo de Github para la clase de Simulación de procesos financieros
+<<<<<<< HEAD
 
 
 ♥┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼♥♥
@@ -20,3 +21,5 @@ Este es un ejemplo de Github para la clase de Simulación de procesos financiero
            |||            |||
             |              |
             
+=======
+>>>>>>> parent of 007ca0b... modifique ggg
